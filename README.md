@@ -2,6 +2,8 @@
 
 **`Desenvolvedor FullStack`**
 
+Concluí o Ensino Médio integrado ao curso técnico em Desenvolvimento de Sistemas na ETEC, onde desenvolvi conhecimentos em banco de dados, HTML, CSS, PHP e Excel. Também tenho experiência com ferramentas como Canva e Microsoft Word. Atualmente, curso o primeiro semestre de Automação Industrial na FATEC. Sou dedicado, organizado e estou sempre buscando evoluir profissionalmente nas áreas de tecnologia e automação.
+
 ---
 
 ### Linguagens e Tecnologias
